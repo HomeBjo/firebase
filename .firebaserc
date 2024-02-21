@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-f": {
+      "hosting": {
+        "da-keep": [
+          "danotes-f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-f"
+  }
+}
